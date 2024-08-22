@@ -1,2 +1,2 @@
 # DQMH_Signal_Generator
-![Project Diagram](images/diagram.png)
+![Project Diagram](images/diagram.PNG)
