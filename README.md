@@ -12,7 +12,7 @@ The application provides the following core functionalities:
 The project follows a decoupled design pattern consisting of specific modules to ensure modularity. The system is divided into the following components:
 
 ### Modules
-*   **Business Layer**: Handles the coordination and logic of the application.
+*   **Business Logic**: Handles the coordination and logic of the application.
 *   **Signal Generator**: Responsible for producing the waveform signals.
 *   **UI**: Manages the user interface and user interactions. 
 *   **Logger**: dedicated to the saving and logging of signal data.
